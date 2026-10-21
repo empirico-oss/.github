@@ -1,3 +1,11 @@
-Empirico is a clinical-stage biotechnology company that discovers and develops novel medicines designed to mimic naturally-occurring genetic variants that confer beneficial effects on health and disease. Empirico’s two foundational technology platforms - the Precision Insights Platform™ for genetically-validated target discovery, and the siRCH™ platform for the discovery and development of siRNA medicines - enable Empirico and its collaborators to rapidly advance programs from the discovery and validation of novel targets to clinically-viable therapeutics. 
+# Empirico
 
-Empirico’s exceptional internal capabilities, augmented by those of its partners, are driving the advancement of a growing and differentiated pipeline of wholly-owned and partnered programs for a broad range of common diseases with unmet medical need. Empirico is headquartered in San Diego, CA with a major second R&D site in Madison, WI.  Learn more at empiri.co.
+Empirico is a clinical-stage biotechnology company that discovers and develops novel medicines designed to mimic naturally-occurring genetic variants that confer beneficial effects on health and disease.
+
+Empirico's two foundational technology platforms — the **Precision Insights Platform™** for genetically-validated target discovery, and the **siRCH™ platform** for the discovery and development of siRNA medicines — enable Empirico and its collaborators to rapidly advance programs from the discovery and validation of novel targets to clinically-viable therapeutics.
+
+Empirico's exceptional internal capabilities, augmented by those of its partners, are driving the advancement of a growing and differentiated pipeline of wholly-owned and partnered programs for a broad range of common diseases with unmet medical need.
+
+Empirico is headquartered in **San Diego, CA**, with a major second R&D site in **Madison, WI**.
+
+**Learn more:** [www.empiri.co](https://www.empiri.co/)
